@@ -8,3 +8,10 @@ The dashboard focuses on the following primary KPIs:
    2.**Average Sales**: Average revenue per sale ($141) <br> 
    3.**Number of Items**: Total count of different items sold (8523) <br> 
    4.**Average Rating**: Average customer rating for items sold (3.9 out of 5) 
+
+# **Insights and Conclusions**
+   1.Strong overall sales performance with over $1M in total sales 
+   2.Consumer preference for low-fat products, indicating health-conscious buying habits 
+   3.Fruits, vegetables, and snack foods are the top-selling categories 
+   4.Medium-sized outlets in Tier 3 locations show the highest profitability 
+   5.Supermarkets generate higher sales volumes, while grocery stores have better item visibility 
